@@ -156,3 +156,12 @@ The graph shows the Scatter Plot of the Normal Data Distribution of 1000 random 
 As we defined before, the dots are concentrated at 5.0 on the x-axis and 10.0 and the y-axis. You will
 also see the pre-defined spread which is on the both axes. It is clear to see that the spread on the
 y-axis is as double as big as the spread on the x-axis
+
+## 4 Linear Regression
+
+### 4.1 Definitions
+
+#### Regression
+The term regression defines a process in which you try to find relationships between variables
+This relationship is used in Machine Learning and statistical modeling. There it us used to
+predict future events.
