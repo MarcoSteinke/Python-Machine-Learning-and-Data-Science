@@ -61,3 +61,8 @@ a bell.
 #### Result of the Normal Data Distribution
 The call `numpy.random.normal(5, 1, 100000)` created a set of values where we set the mean to 5.0 and MOST (68.1%) of the values spread around 5 with a radius of 1.
 So most values are between 4 and 6. You can also see the peak of the Bell Curve being at around 5.0 which was our mean.
+
+## 3 Two dimensional plots or Scatter Plots
+`The files required to understand this chapter are located in 3_Scatter_Plots_and_Proportionals`
+
+
