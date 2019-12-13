@@ -19,4 +19,4 @@ values and plot them in a Histogram.
 
 You will find a picture here:
 
-![](Data_Distribution/Histogram.png)
+![](https://github.com/maste150hhu/Python-Machine-Learning-and-Data-Science/blob/master/Data%20Distribution/Histogram.png)
