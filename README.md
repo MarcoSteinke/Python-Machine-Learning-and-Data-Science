@@ -139,3 +139,11 @@ what our experiment resulted in, BUT our set of data can not be called big data 
 chosen set not trust-worthy. We can not unprove his thesis, but we have not enough data to
 proof it.
 
+## 3.3 Real world problems do not need real world information
+Machine Learning Algorithms are being developed everyday and there are often not enough data sets
+to test the algorithms for their efficiency or proof their functionality. You also do not want to
+test the new self-driving-algorithm by simply putting a car on the streets and let it drive. You
+will have to somehow simulate the events which could occur, or generate a fitting database to run
+your algorithm on.
+
+Therefore we will create data sets by using NumPy.
