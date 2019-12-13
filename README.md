@@ -147,3 +147,12 @@ will have to somehow simulate the events which could occur, or generate a fittin
 your algorithm on.
 
 Therefore we will create data sets by using NumPy.
+
+#### Graph
+![](https://github.com/maste150hhu/Python-Machine-Learning-and-Data-Science/blob/master/3_Scatter_Plots_and_Proportionals/RandomData.png)
+
+The graph shows the Scatter Plot of the Normal Data Distribution of 1000 random points.
+
+As we defined before, the dots are concentrated at 5.0 on the x-axis and 10.0 and the y-axis. You will
+also see the pre-defined spread which is on the both axes. It is clear to see that the spread on the
+y-axis is as double as big as the spread on the x-axis
