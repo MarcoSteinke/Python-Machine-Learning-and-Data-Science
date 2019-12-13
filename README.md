@@ -81,3 +81,24 @@ same length.
 The following image shows the generated Scatter Plot
 
 ![](https://github.com/maste150hhu/Python-Machine-Learning-and-Data-Science/blob/master/3_Scatter_Plots_and_Proportionals/ScatterPlot.png)
+
+As you can see in the picture, the dots are widely spread around the graph. It seems as if the dots are
+all closer to the two coordinate-axes
+
+You will find the Python-Code for this in 3_Scatter_Plots_and_Proportionals in ScatterPlot.py
+
+## 3.2 Application of Scatter plots
+
+Assert that we got some information about cars from a
+mysterious source. He asks us to analyse his data to find
+out if newer cars are really faster than the older ones,
+because he does not want to waste his money.
+
+Since we learned how to scatter sets of data we could
+give it a try.
+
+The mysterious source gave us two sets of data, the first
+consists of the ages of certain cars and the second one
+gives us any kind of unit which measures the speed. The higher the unit, the faster the car.
+
+Let's scatter some cars!
