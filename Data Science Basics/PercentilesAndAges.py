@@ -12,3 +12,6 @@ print
 # "To do so in Python: "
 percentileOfAges = numpy.percentile(ages, 75)
 print("Percentile of 75% of ages = " + str(percentileOfAges))
+
+percentileOfAgesAndNinetyPercent = numpy.percentile(ages, 90)
+print("Percentile of 90% of ages = " + str(percentileOfAgesAndNinetyPercent))
