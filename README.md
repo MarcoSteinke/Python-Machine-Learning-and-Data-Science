@@ -64,5 +64,3 @@ So most values are between 4 and 6. You can also see the peak of the Bell Curve 
 
 ## 3 Two dimensional plots or Scatter Plots
 `The files required to understand this chapter are located in 3_Scatter_Plots_and_Proportionals`
-
-
