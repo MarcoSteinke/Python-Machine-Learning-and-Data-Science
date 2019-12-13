@@ -35,7 +35,7 @@ A Histogram is a graphic which counts the occurence of each element from a colle
 
 You will find a picture here:
 
-![](https://github.com/maste150hhu/Python-Machine-Learning-and-Data-Science/blob/master/Data%20Distribution/Histogram.png)
+![](https://github.com/maste150hhu/Python-Machine-Learning-and-Data-Science/blob/master/2_Data_Distribution/Histogram.png)
 
 ### 2.3 Normal Data Distribution
 In Statistics and Probability Theory there are different kinds of distributions. In the previous examples the values were pseudo-random without any distributions.
