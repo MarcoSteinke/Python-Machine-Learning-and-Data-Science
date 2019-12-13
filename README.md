@@ -102,3 +102,7 @@ consists of the ages of certain cars and the second one
 gives us any kind of unit which measures the speed. The higher the unit, the faster the car.
 
 Let's scatter some cars!
+
+#### Graph
+
+![](https://github.com/maste150hhu/Python-Machine-Learning-and-Data-Science/blob/master/3_Scatter_Plots_and_Proportionals/Cars.png)
