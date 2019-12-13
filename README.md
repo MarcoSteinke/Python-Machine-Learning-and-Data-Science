@@ -50,3 +50,13 @@ The random values are concentrated around a given value by a specific radius. (D
 The following Histogram will demonstrate the effect of the Data Distribution:
 
 ![](https://github.com/maste150hhu/Python-Machine-Learning-and-Data-Science/blob/master/2_Data_Distribution/NormalDistHistogram.png)
+
+In this picture you can see an application of the definition of Normal Data Distribution.
+
+#### Bell Curve
+The graph of a normal distribution is also often called
+a Bell Curve because you can see it's specific form of
+a bell.
+
+The call `numpy.random.normal(5, 1, 100000)` created a set of values where we set the mean to 5.0 and MOST (68.1%) of the values spread around 5 with a radius of 1.
+So most values are between 4 and 6. You can also see the peak of the Bell Curve being at around 5.0 which was our mean.
