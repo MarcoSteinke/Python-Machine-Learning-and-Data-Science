@@ -106,5 +106,36 @@ Let's scatter some cars!
 #### Graph
 ![](https://github.com/maste150hhu/Python-Machine-Learning-and-Data-Science/blob/master/3_Scatter_Plots_and_Proportionals/Cars.png)
 
+#### Introduction to the Experiment
+To begin with I will describe the graph. The upper graph is a Scatter Plot which was introduced in `3.1 Scatter Plot`. Thatswhy it has two axes which are set to the `age of the car in years on the x-axis` and the `top speed of the car in km/h on the y-axis`. The information is displayed as dots which is typical for Scatter Plots. The dots seem to have a trend to be
+somehow closer to the axes as in the previous experiment.
+
 #### Interpretation of the Experiment
-To begin with I will describe the graph. The upper graph is a Scatter Plot which was introduced in `3.1 Scatter Plot`. Thatswhy it has two axes which are set to the `age of the car in years on the x-axis` and the `top speed of the car in km/h on the y-axis`.
+What first got in my sight was the maximum of the set of dots. The dot with a top-speed slightly above 310 is the maximum
+of the set. Therefore the dot on the last spot has a much lower value. 
+
+Somehow the last spot which is older than 16 year
+has a higher value than the value  at age 12 which's top-speed is around 275km/h which actually is the minimum. As you can see, the values get lower from age 0 years to age 12 years. 
+
+If you draw a line from the maximum at age 2 with top-speed > 310km/h to the minimum value of around 275km/h at age 12 years all other points in between will be below this line, but mostly with a relatively low distance to the line. So this line is able to estimate the development of the top speed of cars according to their age in years.
+
+As a result you can find a proportion between the top-speeds and the ages of the cars from the given set. The higher the age
+of a car is, which is equivalent to "the older a car is", the lower the top-speed gets. Or if you flip the proportion:
+
+`The newer the car, the higher the top-speed` which can now lead to two different cases:
+
+#### Case 1: Coincidence
+Maybe this proportion is only a coincidence since only the information of 13 cars were scattered.
+
+#### Case 2: Technology
+As the years passed, the technology got better and the engineers were able to create stronger motors, which led
+to this result.
+
+Now we can give an answer to the mysterious source!
+
+#### Answer: We need more information
+As it looks right now, his thesis of newer cars being faster in top-speed can be supported from
+what our experiment resulted in, BUT our set of data can not be called big data which makes the
+chosen set not trust-worthy. We can not unprove his thesis, but we have not enough data to
+proof it.
+
