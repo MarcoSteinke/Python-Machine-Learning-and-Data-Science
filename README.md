@@ -165,3 +165,20 @@ y-axis is as double as big as the spread on the x-axis
 The term regression defines a process in which you try to find relationships between variables
 This relationship is used in Machine Learning and statistical modeling. There it us used to
 predict future events.
+
+#### Linear Regression
+Linear Regression is ONE type of many which estimates the relationship between data-points to create a straight line through
+all data-points. As mentioned before this line can be used to predict future data-points.
+
+#### Addition to Regression: 
+All regressions have the goal to predict future data-points or values. Assert that your data can be seen as a
+set from the Mathematics. Then there is a relationship between the cardinality (amount of elements) and the
+precision of prediction of future data-points or values. The higher the cardinality of the data-set, or in other
+words: The bigger the set of data to analyse, the more precise all types of regression get.
+
+But there are also other factors which manipulate the precision of different types of regression. Only a huge amount
+of data will not lead to a good result from all types of regression. You will later learn how to proof if a regression
+is good or not.
+
+
+TO BE CONTINUED
