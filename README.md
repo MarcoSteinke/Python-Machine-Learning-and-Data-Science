@@ -46,3 +46,7 @@ In this chapter I will use the Gaussian data distribution which is also called t
 
 #### Normal Data Distribution
 The random values are concentrated around a given value by a specific radius. (Distance)
+
+The following Histogram will demonstrate the effect of the Data Distribution:
+
+![](https://github.com/maste150hhu/Python-Machine-Learning-and-Data-Science/blob/master/2_Data_Distribution/NormalDistHistogram.png)
