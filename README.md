@@ -64,3 +64,20 @@ So most values are between 4 and 6. You can also see the peak of the Bell Curve 
 
 ## 3 Two dimensional plots or Scatter Plots
 `The files required to understand this chapter are located in 3_Scatter_Plots_and_Proportionals`
+
+## 3.1 Scatter Plots
+
+The Subchapter Scatter Plots will teach you about the 
+definition and generation of Scatter Plots
+
+#### Scatter Plot
+A Scatter plot is a plot of random values which will be
+represented by dots in the x-y-plane. Per definition you
+will need two sets or collections to generate a Scatter Plot. Additionally the two collections need to have the
+same length.
+
+## Generation of a Scatter Plot:
+
+The following image shows the generated Scatter Plot
+
+![](https://github.com/maste150hhu/Python-Machine-Learning-and-Data-Science/blob/master/3_Scatter_Plots_and_Proportionals/ScatterPlot.png)
