@@ -104,5 +104,7 @@ gives us any kind of unit which measures the speed. The higher the unit, the fas
 Let's scatter some cars!
 
 #### Graph
-
 ![](https://github.com/maste150hhu/Python-Machine-Learning-and-Data-Science/blob/master/3_Scatter_Plots_and_Proportionals/Cars.png)
+
+#### Interpretation of the Experiment
+To begin with I will describe the graph. The upper graph is a Scatter Plot which was introduced in `3.1 Scatter Plot`. Thatswhy it has two axes which are set to the `age of the car in years on the x-axis` and the `top speed of the car in km/h on the y-axis`.
