@@ -19,4 +19,4 @@ values and plot them in a Histogram.
 
 You will find a picture here:
 
-![]("Data_Distribution/Histogram.png")
+![](Data_Distribution/Histogram.png)
