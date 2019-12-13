@@ -2,8 +2,7 @@
 This is a repository where i try to get into Data Science and Machine Learning using Python (NumPy, SciPy)
 
 ## 1 Data Science Basics
-The files required to understand this chapter are located
-in 1_Data_Science_Basics
+`The files required to understand this chapter are located in 1_Data_Science_Basics`
 
 The basics consist of statistical method such as the Mean, Median, Mode, Standard Deviation.
 
@@ -21,8 +20,7 @@ the most common one.
 The standard deviation gives a radius around the mean in which 68.1% of the elements are also included.
 
 ## 2 Generation of Big Data
-The files required to understand this chapter are located
-in 2_Data_Distribution
+`The files required to understand this chapter are located in 2_Data_Distribution`
 
 ### 2.1 Data Sets
 In this chapter I tried to generate some sets of Data
