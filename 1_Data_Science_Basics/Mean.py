@@ -33,6 +33,4 @@ print(median)
 
 mostCommonValue = stats.mode(speed)
 
-print
-print("most common value:")
-print(mostCommonValue)
+print("most common value: ", mostCommonValue.mode[0], " with a count of ", mostCommonValue.count[0])
